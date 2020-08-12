@@ -1,2 +1,3 @@
 # bus-choice-model
-jaehoon's code
+this module is created for making code for passenger assignment model
+made by Jaehoon Han
